@@ -1,4 +1,4 @@
-# Project Title: Authentication Server with JWT and PostgreSQL
+# Authentication Server with JWT and PostgreSQL
 
 This is an Express-based authentication server that utilizes JWT (JSON Web Tokens) for secure user authentication and PostgreSQL as a database to store user credentials. The server supports user registration, login, logout, and token refresh functionalities. It is also equipped with rate-limiting to prevent abuse of the registration endpoint.
 
